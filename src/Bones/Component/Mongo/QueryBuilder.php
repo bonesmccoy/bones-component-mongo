@@ -1,6 +1,6 @@
 <?php
 
-namespace Bones\Components\Mongo;
+namespace Bones\Component\Mongo;
 
 class QueryBuilder
 {
